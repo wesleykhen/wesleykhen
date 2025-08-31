@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Wesley 👋
+
+- 🎓 BSIT student at CIT-U  
+- 💻 Interested in Web & Game Development  
+- 📚 Currently learning Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOP)  
+- 🌐 GitHub: [wesleykhen](https://github.com/wesleykhen)  
+- 🔗 LeetCode: [wesleykhen](https://leetcode.com/u/wesleykhen/)
+
 
 <!--
 **wesleykhen/wesleykhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
