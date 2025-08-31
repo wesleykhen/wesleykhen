@@ -1,4 +1,4 @@
-# Hi, I'm Wesley 👋
+# Hi, I'm Wesleykhen 👋
 
 - 🎓 BSIT student at CIT-U  
 - 💻 Interested in Web & Game Development  
